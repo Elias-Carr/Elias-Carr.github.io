@@ -10,10 +10,11 @@ h1 {
 img{
    width: 300px;
   height: 200px;
-  border: 10px solid green;
-  background-color: white; /* Use background-color instead of color */
+  border: 10px solid black;
+  background-color: white; 
   border-radius: 20px;
   vertical-align: top;
+  align-items: center;
 }
 
 User
